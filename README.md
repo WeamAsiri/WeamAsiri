@@ -23,14 +23,25 @@
 ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 🎨 Design & Extras
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
+## 🚧 Latest Projects
+
+- 📊 [Sales Dashboard Analysis](https://github.com/yourusername/sales-dashboard)  
+  *Built with Python & Power BI — transformed raw Excel data into interactive insights.*
+
+- 🧮 [Physics Calculator](https://github.com/yourusername/physics-solver)  
+  *CLI tool for solving motion equations — applied physics & coding together.*
+
+- 🔍 [COVID-19 Data Tracker](https://github.com/yourusername/covid-dashboard)  
+  *Explored global datasets with Python & visualized key trends.*
+## 📜 Latest Certifications
+
+- 🧠 [Data Analysis with Python – freeCodeCamp](https://example-link.com)
+- 📊 [Power BI Data Analyst Associate – Microsoft](https://example-link.com)
+- ☁️ [Intro to Cloud Computing – IBM SkillsBuild](https://example-link.com)
+  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=WeamAsiri&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=false)<br/>
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=WeamAsiri&icon=0&color=0)](https://visitcount.itsvg.in)
