@@ -26,19 +26,12 @@
 
 ## 🚧 Latest Projects
 
-- 📊 [Sales Dashboard Analysis](https://github.com/yourusername/sales-dashboard)  
-  *Built with Python & Power BI — transformed raw Excel data into interactive insights.*
 
-- 🧮 [Physics Calculator](https://github.com/yourusername/physics-solver)  
-  *CLI tool for solving motion equations — applied physics & coding together.*
-
-- 🔍 [COVID-19 Data Tracker](https://github.com/yourusername/covid-dashboard)  
-  *Explored global datasets with Python & visualized key trends.*
 ## 📜 Latest Certifications
 
-- 🧠 [Data Analysis with Python – freeCodeCamp](https://example-link.com)
-- 📊 [Power BI Data Analyst Associate – Microsoft](https://example-link.com)
-- ☁️ [Intro to Cloud Computing – IBM SkillsBuild](https://example-link.com)
+- 🧠 [Introduction to SQL – DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/course/84f9e8387bd71829e8746efa55a689469a2db5ac)
+- 📊 [Introduction to Power BI – DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/course/ac6b0e62635a5264a47a140f0f8d94feea868a1b)
+- ☁️ [Introduction to DataLab – DataCamp](https://www.datacamp.com/completed/statement-of-accomplishment/course/54565f4b428a3fb58e6464d5680fac5e725ec922)
   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=WeamAsiri&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=false)<br/>
